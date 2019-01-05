@@ -44,9 +44,6 @@ nav ul{
     grid-auto-flow: row;
     column-gap: 10px;
 }
-nav li {
-   
-}
 nav a {
     display:block;
     text-decoration: none;
